@@ -44,6 +44,7 @@ declare interface Manager
 /**
  * Roomy is a scene management library for LÖVE. It helps organize game code by the different "screens" in the game, such as the title screen, gameplay screen, and pause screen.
  * 
+ * @noResolution
  * @noSelf
  * @link [Reference](https://github.com/tesselode/roomy)
  */
